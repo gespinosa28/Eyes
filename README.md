@@ -14,23 +14,23 @@
 ---
 ## Description
 
-The Eye Movement Exercise is a game consisting in creating a pair of eyes that would follow the direction of the cursor. For this exercise, a starter code was provided allowing us to determine how the game would work with one eye. Adding the second eye and make it follow the direction of the cursor was the real challenge of this exercise.
+The Eye Movement Exercise is a game consisting of creating a pair of eyes that follow the direction of the user's cursor. For this exercise, a starter code was provided, allowing us to determine how the game would work with one eye. Adding the second eye and make it follow the direction of the cursor was the real challenge of this exercise.
 
 [[to top ⬆️]](#eye-movement-exercise)
 
 ---
 ## Usage
 
-* Just move your cursor around the screen and have fun looking at the pair of eyes following the cursor direction.
+* Just move your cursor around the screen and the pair of eyes will follow the direction of the cursor.
 
 [[to top ⬆️]](#eye-movement-exercise)
 
 ---
 ## Future work
 
-* Create a button that gives you the option of turning on and off the lights. When the light is on, you would be able to see in the background a normal house scenery. When the lights are off, you would be able to see the pair of eyes following the cursor.
-* When the lights are off, the pair of eyes would appear in a random position in the screen.
-* Create a second button that gives you the possibility of creating more pair of eyes when the lights are off.
+* Create a "light" button that allows users to turn either on or off the "lights" in the screen with the eyes, similar to a standard light switch in the house. When the light is on, the screen will display an image of a house. When the lights are off, the house will no longer be visible. Instead, a black background with a pair of eyes will instead be displayed, following the movement of the cursor and its direction. 
+* When the lights are off, the pair of eyes will appear in a random position in the screen.
+* Create a second button that gives you the option of creating additional pairs of eyes when the lights are off.
 
 [[to top ⬆️]](#eye-movement-exercise)
 
