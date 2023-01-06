@@ -29,7 +29,8 @@ The Eye Movement Exercise is a game consisting in creating a pair of eyes that w
 ## Future work
 
 * Create a button that gives you the option of turning on and off the lights. When the light is on, you would be able to see in the background a normal house scenery. When the lights are off, you would be able to see the pair of eyes following the cursor.
-* Create a second button that gives you the possibility of creating more eyes when the lights are off.
+* When the lights are off, the pair of eyes would appear in a random position in the screen.
+* Create a second button that gives you the possibility of creating more pair of eyes when the lights are off.
 
 [[to top ⬆️]](#eye-movement-exercise)
 
